@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://vywamus.z20.web.core.windows.net/sitemap.xml
-Sitemap: https://vywamus.z20.web.core.windows.net/sitemap.txt
+Sitemap: https://www.vywamusfoundation.org//sitemap.xml
+Sitemap: https://www.vywamusfoundation.org//sitemap.txt
