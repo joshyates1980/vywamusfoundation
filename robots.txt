@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: http://localhost:8501/sitemap.xml
-Sitemap: http://localhost:8501/sitemap.txt
+Sitemap: https://www.vywamusfoundation.org//sitemap.xml
+Sitemap: https://www.vywamusfoundation.org//sitemap.txt
